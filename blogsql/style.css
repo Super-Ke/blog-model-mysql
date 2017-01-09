@@ -1,0 +1,52 @@
+/*整个网页容器*/
+.containor{
+  /*border: 1px solid ;*/
+  width: 70%;
+  margin: 0 auto;
+}
+
+div{
+  border: 1px solid ;
+}
+
+.title{
+  border: none;
+  border-bottom: 1px solid;
+}
+.left{
+  float: left;
+  width: 70%;
+  margin: 0.5em 1em;
+  border: none;
+}
+.blog_entry{
+  border: none;
+  margin-bottom: 1em;
+}
+.blog_title{
+
+}
+.blog_date{
+  border: none;
+  margin-bottom: 0.5em;
+}
+.blog_body{
+  padding: 2em;
+}
+.right{
+  float: left;
+  width: 20%;
+  margin: 0.5em 1em;
+  border: none;
+}
+.sidebar{
+  margin-bottom: 1em;
+}
+.menu_body{
+  border: none;
+}
+
+.footer{
+  clear: both;
+  text-align: center;
+}
